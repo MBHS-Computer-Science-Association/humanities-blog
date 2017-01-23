@@ -1,5 +1,5 @@
 {
-  "name": "Humanities-Blog",
+  "name": "humanities-blog",
   "version": "0.0.1",
   "description": "A blog about humanities",
   "main": "server.js",
