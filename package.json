@@ -1,6 +1,6 @@
 {
-  "name": "Humanities Blog",
-  "version": "1.0.1",
+  "name": "Humanities-Blog",
+  "version": "0.0.1",
   "description": "A blog about humanities",
   "main": "server.js",
   "dependencies": {
